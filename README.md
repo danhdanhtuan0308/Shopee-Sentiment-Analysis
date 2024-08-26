@@ -1,11 +1,11 @@
 # Shopee Sentiment Analysis Competition
 
-## OVERVIEW 
+## Overview 
 This project focuses on building a sentiment analysis model that classifies user comments into categories such as Positive, Negative, Neutral, or Spam. Sentiment analysis is a key tool in understanding user feedback, enhancing customer satisfaction, and improving products or services based on the sentiments expressed in user-generated content
-## PROJECT STRUCTURE
+## Project Structure
 1) 'data' : in the file Cung_cap_HV_ShopeeFood
 2) Notebook.ipynb : contain code for preprocessing, model and evaluation
-## GETTING STARTED
+## Getting Started
 1) Python 3.6
 2) Jupyter Notebook
 3) Python packages list (scikit-learn, lightGBM, pandas, numpy)
@@ -16,11 +16,11 @@ This project focuses on building a sentiment analysis model that classifies user
    cd ShopeeSentimentAnalysis
 2) pip install -r requirements.txt
 3) jupyter notebook or google colab
-## Usage 
+## Usage
 1) Open notebook.ipynb in JupyterNotebook or Google Colab
 2) Follow the steps in the notebook
 3) Randomly back-testing to see the positive or negative comment of a restaurant
-## FEATURES
+## Features
 1) Data-processing :
    - Text cleaning and normlization
    - Handling special characters, stopword removal and lemmatization
@@ -31,9 +31,9 @@ This project focuses on building a sentiment analysis model that classifies user
    - Custom handling of spam comments to ensure they are properly filterd and treated separately
 3) Model Evaluation  :
    - Performance metrics such as Accuracy, Precision, Recall , Validation, AUC-ROC
-## RESULTS 
+## Result 
 Our model achieved an AUC 0.93, indicate a strong performance of classifying positive, negative instant. The model is also affective filtering out spam comments which could help viewers or readers understand about the restaurant before they book a reservation.
-## DATASET 
+## Dataset 
 The data used in this project is sourced from ShopeeFood Machine Learning Competition in Vietnam 'Cung_cap_HV_ShopeeFood'. Includes user comments has been pre-labeled into categories used in this analysis.
 ## Contributing
 We welcome contributions to this project. To contribute:
