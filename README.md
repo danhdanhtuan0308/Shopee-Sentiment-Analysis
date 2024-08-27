@@ -43,6 +43,6 @@ We welcome contributions to this project. To contribute:
 - Push to the branch (git push origin feature-branch).
 - Create a pull request.
 ## License
-This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License - see the LICENSE file for details.
+This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/) - see the LICENSE file for details.
 ## Contact 
 For any question or inquiries, please reach out to danhdanhtuan0308@gmail.com.
